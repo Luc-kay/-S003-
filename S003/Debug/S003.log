@@ -1,0 +1,6 @@
+﻿  S003.cpp
+C:\Users\lucky\source\repos\S003\S003\S003.cpp(45,13): warning C4102: b2: неиспользованная метка
+C:\Users\lucky\source\repos\S003\S003\S003.cpp(48,1): warning C4102: b3: неиспользованная метка
+C:\Users\lucky\source\repos\S003\S003\S003.cpp(52,1): warning C4102: b4: неиспользованная метка
+C:\Users\lucky\source\repos\S003\S003\S003.cpp(57,1): warning C4102: b5: неиспользованная метка
+  S003.vcxproj -> C:\Users\lucky\source\repos\S003\Debug\S003.exe
